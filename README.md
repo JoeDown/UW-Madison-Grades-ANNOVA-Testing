@@ -14,4 +14,6 @@ To address the second question, we identified classes that were taught by the sa
 
 In order to address the third question, we performed a z-test to compare the pass rate for all classes taught at 8 AM to that of all classes taught at 1 PM.  We failed to find a difference in the pass rate between classes taught at 8 AM versus classes taught at 1 PM.
 
+In sum, we conclude that while there is no difference in proportion of students who pass at 1 PM or 8 AM, students do perform differently in the same course depending on the room the course is taught in.  Pass rates across foreign languages are relatively similar (with the excpetion of Portuguese), but more students earn A's and B's in German and Asian language classes than in other foreign languages.
+
 
