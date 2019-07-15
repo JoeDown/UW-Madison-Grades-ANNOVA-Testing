@@ -5,3 +5,7 @@ In this project we set out to address three principal questions about grade dist
 
 The database we used to answer these questions can be found here:
 https://www.kaggle.com/Madgrades/uw-madison-courses
+
+The code we used to address these questions is in the Jupyter notebook titled 'Mod03_everybody'
+
+
